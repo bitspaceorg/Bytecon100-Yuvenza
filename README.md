@@ -3,7 +3,7 @@
   <img src="https://github.com/t-aswath/Bytecon100-Yuvenza/assets/119417646/c4f6bfcf-0a00-44c2-8ca1-b06648dab4e9" width="100">
   <img src="https://github.com/t-aswath/Bytecon100-Yuvenza/assets/119417646/2875d9cd-063b-4ab4-804e-c43051204bd7" width="100">
   <br>
-    WORKSHOP
+    BYTECON100-WORKSHOP
   </h1>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white&color=black">
