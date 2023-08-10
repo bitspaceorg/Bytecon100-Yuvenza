@@ -32,6 +32,8 @@ horizontal line `<hr>` `***` `___` `---`
 
 *italics* `*word*` `_word_` `<i>` `<em>`
 
+`highlight`  ` `` ` 
+
 
 >block  `>`
 
@@ -63,3 +65,13 @@ videos&img `<img>`
 `|-----|------|`
 
 `|words|words |`
+
+```py
+print("code snippet")
+```
+` ```[language_extension](ex py,c,cpp)`
+
+`     code...`
+
+`   ``` `
+
