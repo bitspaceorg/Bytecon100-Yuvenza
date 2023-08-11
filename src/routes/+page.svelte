@@ -17,7 +17,7 @@
                     const hashData = {
                         name,
                         event: "Byte Con 100 : Introduction to Open Source",
-                        date: "11/08/2023",
+                        date: "11/08/g2023",
                         venue: "Chennai Institute of Technology",
                         partneredWith:
                             "https://cdn.discordapp.com/attachments/1106935324556406866/1139027979666722898/youth_final-01.png",
